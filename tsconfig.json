@@ -6,5 +6,12 @@
 */
 {
   "files": [],
-  "references": []
+  "references": [
+    {
+      "path": "./projects/FirstWebComponent/tsconfig.app.json"
+    },
+    {
+      "path": "./projects/FirstWebComponent/tsconfig.spec.json"
+    }
+]
 }
